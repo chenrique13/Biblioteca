@@ -52,7 +52,9 @@ public abstract class Acervo {
 
 	@Override
 	public String toString() {
-		return "Acervo [Codigo = " + codigo + ", AnoPublicacao = " + anoPublicacao + ", Volume = " + volume
+		return "Acervo [Codigo = " + codigo 
+				+ ", AnoPublicacao = " + anoPublicacao 
+				+ ", Volume = " + volume
 				+ ", Numero de Paginas=" + numeroPaginas + "]\n";
 	}
 
