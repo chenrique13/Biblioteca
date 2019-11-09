@@ -5,9 +5,9 @@ import java.util.List;
 
 public class RepositorioProdutosLista implements RepositorioProdutos {
 
-	private List<Livro> livros;
-	private List<Revista> revistas;
-	private List<Jornal> jornais;
+	private List <Livro> livros;
+	private List <Revista> revistas;
+	private List <Jornal> jornais;
 
 	public RepositorioProdutosLista() {
 
